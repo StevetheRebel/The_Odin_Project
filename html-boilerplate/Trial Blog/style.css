@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    background-image: url(images/katie-rainbow-cUiBWocefh0-unsplash.jpg);
+    background-position: center, center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 1rem;
+    color: rgb(246, 250, 23);
+}
+
+p {
+    width: 80%;
+    margin: auto;
+    text-align: justify;
+    color: #fff;
+}
